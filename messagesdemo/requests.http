@@ -9,5 +9,5 @@ POST http://localhost:3000/messages
 Content-Type: application/json
 
 {
-    "content": "Hello World!"
+    "content": "1"
 }
